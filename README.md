@@ -1,6 +1,6 @@
-# Statistics-Univariate-Bivariate-Multivariate-Analysis-
+# EXPLORATORY DATA ANALYSIS
 
-# (Statistics Refreshener)
+# (Univariate, Bivariate & Multivariate Analysis)
 
 Welcome to the Statistics Refreshener repository! This repository contains code and resources to refresh your understanding of statistical concepts, including univariate, bivariate, and multivariate analysis.
 
